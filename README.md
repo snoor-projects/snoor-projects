@@ -10,7 +10,7 @@
 
 Hey there :wave: My name is <strong>Shubhnoor Gill!</strong><br><br>
 I am currently a <strong>Final Year Student :woman_student:</strong> exploring the field of <strong>Artificial Intelligence and Machine Learning</strong> :dart:<br><br>
-Being an intellectually curious individual :monocle_face: with a creative mind, I like to read articles and research papers :scroll: related to new tech. I love :hearts: to work hands-on in teams. If you want to collaborate, contact me!<br>
+Being an intellectually curious individual :monocle_face: with a creative mind, I like to delve deep into the **W-H** Questions. In addition, I like to read articles and research papers :scroll: related to new tech. I love :hearts: to work hands-on in teams. If you want to collaborate, contact me!<br>
 
 Currently I am curious :bulb: about Human-Machine Interface and use of Machine Learning in Healthcare!<br>Feel free to share your thoughts :thought_balloon:
 
@@ -55,7 +55,6 @@ Currently I am curious :bulb: about Human-Machine Interface and use of Machine L
 <!-- Social Profiles -->
 ## Let's Connect!
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShubhnoorG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhnoor-gill-015/)
 
 ## Explore My GitHub Projects Pinned Below :point_down:
