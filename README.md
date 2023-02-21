@@ -9,10 +9,10 @@
 ## About Me!
 
 Hey there :wave: My name is <strong>Shubhnoor Gill!</strong><br><br>
-I am recent undergrad in <strong> Artificial Intelligence and Machine Learning :woman_student:</strong> and currently exploring the same field with the zeal to build new AI techniques and tools that help reduce the gap between accessibility and availablity of products, especially in healthcare sector. :dart:<br><br>
+I am an incoming <strong> Master of Management in AI (MMAI)</strong> student at <strong>Smith School of Business</strong>. An undergrad in <strong> Artificial Intelligence and Machine Learning :woman_student:</strong>, I am currently exploring the same field with the zeal to build new AI techniques and tools that help reduce the gap between accessibility and availability of products, especially in healthcare sector. :dart:<br><br>
 Being an intellectually curious individual :monocle_face:, I like to delve deep into the **W-H** Questions. In addition, I like to read articles and research papers :scroll: related to new tech. I love :hearts: to work hands-on in teams. If you want to collaborate, contact me!<br>
 
-Currently I am curious :bulb: about “Less than one”-shot learning, Human-Machine Interface, Computer Vision, and use of Machine Learning in Healthcare!<br>Feel free to share your thoughts :thought_balloon:
+Currently I am curious :bulb: about “Less than one”-shot learning, Human-Machine Interface, Computer Vision, and use of Machine Learning in Healthcare! Feel free to share your thoughts :thought_balloon:
 
 <!-- Tech Stack I work with -->
 ## 🔧 Technologies & Tools
