@@ -9,21 +9,26 @@
 ## About Me!
 
 Hey there :wave: My name is <strong>Shubhnoor Gill!</strong><br><br>
-I am currently a <strong>Final Year Student :woman_student:</strong> exploring the field of <strong>Artificial Intelligence and Machine Learning</strong> :dart:<br><br>
-Being an intellectually curious individual :monocle_face: with a creative mind, I like to delve deep into the **W-H** Questions. In addition, I like to read articles and research papers :scroll: related to new tech. I love :hearts: to work hands-on in teams. If you want to collaborate, contact me!<br>
+I am recent undergrad in <strong> Artificial Intelligence and Machine Learning :woman_student:</strong> and currently exploring the same field with the zeal to build new AI techniques and tools that help reduce the gap between accessibility and availablity of products, especially in healthcare sector. :dart:<br><br>
+Being an intellectually curious individual :monocle_face:, I like to delve deep into the **W-H** Questions. In addition, I like to read articles and research papers :scroll: related to new tech. I love :hearts: to work hands-on in teams. If you want to collaborate, contact me!<br>
 
-Currently I am curious :bulb: about Human-Machine Interface and use of Machine Learning in Healthcare!<br>Feel free to share your thoughts :thought_balloon:
+Currently I am curious :bulb: about “Less than one”-shot learning, Human-Machine Interface, Computer Vision, and use of Machine Learning in Healthcare!<br>Feel free to share your thoughts :thought_balloon:
 
 <!-- Tech Stack I work with -->
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=f0e80c)
+![](https://img.shields.io/badge/code-Python-informational?logo=python&logoColor=white&color=f0e80c)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=f0e80c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=f0e80c)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f0e80c)
 
+
+![](https://img.shields.io/badge/Analytics-Google_Analytics-informational?style=flat&logo=googleanalytics&logoColor=white&color=e83c15)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=e83c15)
 ![](https://img.shields.io/badge/IDE-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=e83c15)
 ![](https://img.shields.io/badge/IDE-Jupyter_Notebooks-informational?style=flat&logo=jupyter&logoColor=white&color=e83c15)
 ![](https://img.shields.io/badge/IDE-Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=e83c15)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=e83c15)
+
 
 ![](https://img.shields.io/badge/Packages-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=13bcbf)
 ![](https://img.shields.io/badge/Packages-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=13bcbf)
